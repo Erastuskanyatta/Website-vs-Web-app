@@ -72,8 +72,48 @@ Below are examples of web application:
 - [Wikipedia](gg)
 
 
-#### Characteristics Of A web Application
+#### Characteristics of A web Application
+
+1. ``Accessibility``- A good website is one that is available and usable by maximun number of people. People with dissablity should be able to access the web application.
+
+2. ``Storage system`` -Should have a good database for storing designers and end-users information.
+
+3. ``They are cloud-hosted`` -
 
 #### What is the importance of a web Application
 
+### Key differences between a website and web application
+
+#### 1. Interaction with the user
+
+In website there is no functionality. The end-user only view the visual contect but cannot interact with it.
+
+On the other hand, web app gives the end-user the opportunity to interact one on one by giving out details to enable him login or filling out a form.
+
+#### 2. Reasons for creation
+
+Website are mostly meant for the universe. This means that all end-users can access them.
+
+Unlike website, web app is meant for the interaction with the end-users, This means that the end user must provide some details in order to use a web app. Without the required details data might not be available.
+
+#### 3. Code Deployment
+
+In website, small changes does not require a full re-accumulation and deployment. You simply need to refresh/update the HTML code and all that will be updated. 
+
+When it comes to web app, this is different. Here, you need to re-compile and re-deploy the app after making any change.
+
+#### 4. Authentication
+
+In website, end-users authentication is not mandatory. The user may give some details at wish if they are willing to get any updates from the website.
+
+On the other hand, Web applications need validation as they offer a lot more extensive extent of alternatives and usefulness than a website. This means that before you access you account you must provide your username and password.
+
+Wesite does not need pre-compli
+
+
+
+
+
 ### Conclusion
+
+``It is evident from the above that...``
