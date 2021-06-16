@@ -17,9 +17,7 @@ I was once among those who argued that the two terms mean the same, but after re
 
 2. [Web application](#web-application)
 
-4. [Why you need a website and web application](#ggg)
-
-5. [Key differences between a website and web application](#ggg)
+3. [Key differences between a website and web application](#key-differences-between-a-website-and-web-application)
 
 
 ### Website
@@ -76,13 +74,23 @@ Below are examples of web application:
 
 #### Characteristics of A web Application
 
-1. ``Accessibility``- A good website is available and usable by a maximum number of people. People with disabilities should be able to access the web application.
+1. ``Accessibility``- A good web app is available and usable by a maximum number of people. People with disabilities should be able to access the web application.
 
 2. ``Storage system`` -Should have a good database for storing designers' and end-users information.
 
-3. ``They are cloud-hosted`` -
+3. ``Easily expanded``- Business keeps on expanding as time passes by. It is simple to upadate an web app as only servers are to be upgraded.
+
+4. `Cross-platform`- Web app can run in any Operating system using differnt browsers
 
 #### What is the importance of a web Application
+
+1. `Security`- All organizations should know about security dangers with their applications. Web applications ensure sites and program are secure since they are designed with more privacy and a high level of security. 
+
+2. `Convinient to access`- End-users can access them from any device at any time.
+
+3. Easy data access as they are used in both mobile devices and desktops.
+
+4. 
 
 ### Key differences between a website and web application
 
