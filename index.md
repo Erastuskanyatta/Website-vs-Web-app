@@ -1,5 +1,4 @@
 ### Webpage Vs Web Application
- Website or web app? Which one will help you achieve your dreams? Which one will make your expectations come true? Which one will you use for your business? Follow along with this article and get all the answers to these questions and others more that disrupt you as far as website and web app are concerned.
 
 ### Introduction
 
@@ -68,8 +67,8 @@ Unlike websites, web apps are hard to create(because they are very customized) a
 Below are examples of web application:
 
 - [Twitter](https://twitter.com/?lang=en)
-- [G-mail](gg)
-- [Wikipedia](gg)
+- [G-mail](https://mail.google.com/)
+- [Wikipedia](https://www.wikipedia.org/)
 
 
 #### Characteristics of A web Application
@@ -78,19 +77,18 @@ Below are examples of web application:
 
 2. ``Storage system`` -Should have a good database for storing designers' and end-users information.
 
-3. ``Easily expanded``- Business keeps on expanding as time passes by. It is simple to upadate an web app as only servers are to be upgraded.
+3. ``Easily expanded``- Business keeps on expanding as time passes by. It is simple to update a web app as only servers are to be upgraded.
 
-4. `Cross-platform`- Web app can run in any Operating system using differnt browsers
+4. `Cross-platform`- Web app can run in any Operating system using different browsers
 
 #### What is the importance of a web Application
 
-1. `Security`- All organizations should know about security dangers with their applications. Web applications ensure sites and program are secure since they are designed with more privacy and a high level of security. 
+1. `Security`- All organizations should know about security dangers with their applications. Web applications ensure sites and programs are secure since they are designed with more privacy and a high level of security. 
 
-2. `Convinient to access`- End-users can access them from any device at any time.
+2. `Convenient to access`- End-users can access them from any device at any time.
 
 3. Easy data access as they are used in both mobile devices and desktops.
 
-4. 
 
 ### Key differences between a website and web application
 
@@ -132,4 +130,6 @@ While a website shows the collected information and data on a particular page, w
 
 ### Conclusion
 
-``It is evident from the above that...``
+Unlike developing a website that is a bit simple and less complicated, a web application needs more knowledge and experience for it to be created.
+
+From the above discussion, I believe now that you can tell the difference between website and web app and what you interact with on daily basis.
