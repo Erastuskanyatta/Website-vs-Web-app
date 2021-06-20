@@ -1,14 +1,14 @@
-### Webpage Vs Web Application
+### Difference Between a Web Page and a Web Application
 
 ### Introduction
 
-It is not easy for an end-user to tell the difference between a website and a web application. They type the URL and get the expected results.
+It is difficult for a user to distinguish between a website and a web application. They enter the URL and get the expected outcomes.
 
 Getting the results of what they are searching for is what matters to the end-user. How they get the results is not their business.
 
-Developer builds these products for the user. Thus it is expected of him to differentiate between the two very well. Some developers argue that website and web application mean the same, others argue that they are two different terms. Between the two types of developers who is wrong and who is correct?😕
+These products are created for the consumer by developers. As a result, it is required of him to be able to distinguish between the two. Some developers argue that the terms website and web application are similar, while others argue that they are not. Between the two types of developers who is wrong and who is correct?😕
 
-I was once among those who argued that the two terms mean the same, but after research, I found out that these are two different things. In this article, I will try and highlight some of the key differences which helped me understand how websites and web application differ.
+I was once among those who argued that the two terms mean the same, but after research, I found out that these are two different things. In this article, I'll try to highlight some of the main differences that have helped me understand the differences between websites and web applications.
 
 ### In this tutorial we will look at,
 
@@ -18,7 +18,6 @@ I was once among those who argued that the two terms mean the same, but after re
 
 3. [Key differences between a website and web application](#key-differences-between-a-website-and-web-application)
 
-
 ### Website
 
 A website is a collection of pages that may consist of images, audio, or video and they are interlinked together by a single domain name.
@@ -26,50 +25,56 @@ A website is a collection of pages that may consist of images, audio, or video a
 Website is of different types. Some of them are:
 
 1. Dating websites
+
 2. Educational Websites
+
 3. Social Media websites
+
 4. Portfolio website
 
 #### Characteristics Of A website
 
-A good web designer can Judge a site according to its appearance. Good appearance is one of the characters that will make a website successful. Let us look at more characteristics of a website.
+A good web designer can Judge a site according to its appearance. One of the characteristics that will determine the success of a website is its appearance. Let's have a look at some additional website attributes.
 
 1. ``User friendly``- A website can be operated by almost everybody for it is easy to use and navigate.
 
 2. ``Attractive and easy for all targeted users`` - This fixture helps in attracting all users and gives them a reason for not choosing another website to visit.
 
-3. ``Purpose``- What is the reason for the appearance of the website? A good website should provide a purpose and that purpose should be clear to the user within a short period. A user should not take much of his/her time trying to understand the reason for the appearance of a site.
-The unclear purpose may lead to a website not giving back good results.
+3. ``Purpose``- What is the objective of the website's appearance? A good website should provide a purpose and that purpose should be clear to the user within a short period. A user should not take much of his/her time trying to understand the reason for the appearance of a site.
+
+   The unclear purpose may lead to a website not giving back good results.
 
 4. ``High speed of loading``- Web designers should consider this fixture as not all end-users are patient. In today's world, time is a very important resource and nobody would like his/her time to go to waste. Therefore if a website loads slowly, end-users likely to look for a different website with a high speed.
 
-     There numerous elements that factor into the loading speed of a website, yet everything starts with the hosting quality. Always choose a host that loads first and keep end-users happy.
-     
+    There numerous elements that factor into the loading speed of a website, yet everything starts with the hosting quality. Always choose a host that loads first and keep end-users happy.
+
 5. ``Secure``- A good website provides security for both end-users and designers
 
 #### What is the importance of a website
 
 1. ``It provides self-service customer support in Business``- If your website support Q&A post, then you can provide a forum where user can have questions about your goods among themselves. Other users can provide answers to the questions.
+
 This can make things a lot quicker for your clients and make your client service office more effective.
 
 2. ``Website shows Professionalism``- Imagine you are dealing with a supplier whom you want to buy goods from, and this supplier doesn't have a website. I am very sure you would not have a second thought looking for another supplier with a website. This gives an impression that that supplier or company is not well managed.
 
-   Why would an end-user purchase from a supplier or company without a website? Most end-users have a bad opinion of suppliers without a website and they consider them as unprofessional.
+  Why would an end-user purchase from a supplier or company without a website? Most end-users have a bad opinion of suppliers without a website and they consider them as unprofessional.
 
 3. ``It gives opportunities abroad``- If you have a website, you create an opportunity for everyone worldwide to find you. If you're selling your product online, you end up having more market compared to a business person selling locally. This will in turn increase the profit. 
 
 ### Web application
 
-A web application is a piece of a program that can be accessed in the browser and is connected to the database. A web app has functionality and interactive elements.
+A web application is a program component that can be accessed via a browser and is linked to a database. A web application contains both functional and interactive elements.
 
 Unlike websites, web apps are hard to create(because they are very customized) and require an experienced team.
 
 Below are examples of web application:
 
 - [Twitter](https://twitter.com/?lang=en)
-- [G-mail](https://mail.google.com/)
-- [Wikipedia](https://www.wikipedia.org/)
 
+- [G-mail](https://mail.google.com/)
+
+- [Wikipedia](https://www.wikipedia.org/)
 
 #### Characteristics of A web Application
 
@@ -89,12 +94,11 @@ Below are examples of web application:
 
 3. Easy data access as they are used in both mobile devices and desktops.
 
+### The main distinctions between a website and a web application
 
-### Key differences between a website and web application
+#### 1. The user's interaction
 
-#### 1. Interaction with the user
-
-On the website, there is no functionality. The end-user only view the visual content but cannot interact with it.
+There is no functionality on the website. The end-user only view the visual content but cannot interact with it. 
 
 On the other hand, the web app allows the end-user to interact one on one by giving out details to enable him to log in or filling out a form.
 
@@ -102,11 +106,11 @@ On the other hand, the web app allows the end-user to interact one on one by giv
 
 The website is mostly meant for the universe. This means that all end-users can access them.
 
-Unlike a website, the web app is meant for interaction with the end-users, This means that the end-user must provide some details to use a web app. Without the required details, data might not be available.
+Unlike a website, the web app is meant for interaction with the end-users. This means that the end-user must provide some details to use a web app. Without the required details, data might not be available.
 
 #### 3. Code Deployment
 
-On the website, small changes do not require a full re-accumulation and deployment. You simply need to refresh/update the HTML code and all that will be updated. 
+On the website, small changes do not require a full re-accumulation and deployment. You need to refresh/update the HTML code and all that will be updated. 
 
 When it comes to the web app, this is different. Here, you need to re-compile and re-deploy the app after making any change.
 
@@ -126,7 +130,7 @@ For a web app, development is quite different from that of a website, here, you 
 
 #### 6. Task and Complexity
 
-While a website shows the collected information and data on a particular page, web app applications are quite complicated and their functions higher compared to the website.
+While a website shows the collected information and data on a particular page, web app are quite complicated and their functions higher compared to the website.
 
 ### Conclusion
 
