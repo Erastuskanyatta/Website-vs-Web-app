@@ -6,7 +6,7 @@ It is difficult for a user to distinguish between a website and a web applicatio
 
 Getting the results of what they are searching for is what matters to the end-user. How they get the results is not their business.
 
-These products are created for the consumer by developers. Therefore, developer must be able to tell the difference between the two. Some developers argue that the terms website and web application are similar, while others argue that they are not. Between the two types of developers who is wrong and who is correct?😕
+These products are created for the consumer by developers. Therefore, the developer must be able to tell the difference between the two. Some developers argue that the terms website and web application are similar, while others argue that they are not. Between the two types of developers who is wrong and who is correct?😕
 
 I was once among those who argued that the two terms mean the same, but after research, I found out that these are two different things. In this article, I'll try to highlight some of the main differences that have helped me understand the differences between websites and web applications.
 
@@ -22,7 +22,7 @@ I was once among those who argued that the two terms mean the same, but after re
 
 A website is a collection of interconnected pages that may contain images, audio, or video and are linked by a single domain name.
 
-Website are of different types. Some of them are:
+Website is of different types. Some of them are:
 
 1. Dating websites
 
@@ -111,13 +111,13 @@ Unlike a website, the web app is meant for interaction with the end-users. This 
 
 On the website, small changes do not require a full re-accumulation and deployment. You need to refresh/update the HTML code and all that will be updated. 
 
-Code deployment in web app is quite different. Here, you need to re-compile and re-deploy the app after making any change.
+Code deployment in the web app is quite different. Here, you need to re-compile and re-deploy the app after making any change.
 
 #### 4. Authentication
 
 On a website, end-users authentication is not mandatory. The user may give some details at wish if they are willing to get any updates from the website.
 
- On the other hand, Web applications need validation as they offer a lot more extensive extent of alternatives and usefulness than a website. To access you account you must provide details like username and password that verify ownership.
+ On the other hand, Web applications need validation as they offer a lot more extensive extent of alternatives and usefulness than a website. To access your account you must provide details like username and password that verify ownership.
 
 #### 5. Development
 
@@ -129,7 +129,7 @@ For a web app, development is quite different from that of a website, here, you 
 
 #### 6. Task and Complexity
 
-While a website shows the collected information and data on a particular page, web app are quite complicated and their functions higher compared to the website.
+While a website shows the collected information and data on a particular page, a web app is quite complicated and functions higher compared to the website.
 
 ### Conclusion
 
